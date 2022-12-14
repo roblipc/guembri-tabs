@@ -28,9 +28,6 @@ tourkourira tourira
 tourkourira tourira
 
 moula goumia tourira
-moula goumia tourira
-
-moula jnwia tourira
 moula jwnia tourira
 
 moula 7mria tourira
