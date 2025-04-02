@@ -50,14 +50,39 @@
 
 # moussaouiyine
 
+- sidi moussa
+- katibala
+- rassoul lah
+- markiba
+- koubayli bala
+- 
 # l'houmer
 
+-  bouri bouri manandabou
+-  bania
+-  bouri bouri
+-  bacha hammou
+-  hamouda
+-  sidi koumy
+-  merhba sidi koumy
+  
 # chorfa
 
+- Benhsayen
+- Moulay brahim
+- sidi lfqih
+- chamharouch
+- moulay hmed
+- sidi hajjaj
+  
 # l'kouhel
 
 - mimouna
-
+- loghmami
+- baba mimoun (jaw gnawa jaw)
+- baba mimoun (slow)
+- mimoun ganga
+  
 # l'bnat
 
 Source :
